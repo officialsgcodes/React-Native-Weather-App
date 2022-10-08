@@ -4,5 +4,5 @@ This is a react-native Weather App with the various features. We will be using O
 
 ### Screens
 
-| ![](assets/images/Screenshot.png) | ![](assets/images/Screenshot-1.png) |
+| ![](assets/images/Screenshot.jpg) | ![](assets/images/Screenshot-1.jpg) |
 | :-------------: | :-------------: |
